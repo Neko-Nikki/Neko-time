@@ -53,5 +53,9 @@
 ## Pre-release v0.0.13a | 2026-08-04
 - [PLUGIN] Removed FTPbow
 
-## Pre-release v0.0.13a | 2026-08-04
+## Pre-release v0.0.13b | 2026-08-04
 - [PLUGIN] Removed Citizen2
+
+## Pre-release v0.1.0 | 2026-08-04
+- [CORE] Changed to Paper server core
+- [PLUGIN] Re-configured Citizen2
