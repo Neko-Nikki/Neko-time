@@ -43,3 +43,6 @@
 
 ## Pre-release v0.0.10 | 2026-08-02
 - [PLUGIN] Added ChestShop
+
+## Pre-release v0.0.11 | 2026-08-03
+- [FIX] Fixed UUID problems
