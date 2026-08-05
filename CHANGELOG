@@ -5,19 +5,19 @@
 - [CORE] Added Spigot server core
 
 ## Pre-release v0.0.2 | 2026-08-01
-- [PLUGIN] Added EssentialsX
-- [PLUGIN] Added EssentialsXChat
-- [PLUGIN] Added EssentialsXSpawn
-- [PLUGIN] Added FTBbow
-- [PLUGIN] Added NyaaCore
+- [PLUGIN] Added EssentialsX 2.22.0
+- [PLUGIN] Added EssentialsXChat 2.22.0
+- [PLUGIN] Added EssentialsXSpawn 2.22.0
+- [PLUGIN] Added FTBbow 1.0
+- [PLUGIN] Added NyaaCore 9.11
 
 ## Pre-release v0.0.3 | 2026-08-01
-- [PLUGIN] Added CatSeedLogin
+- [PLUGIN] Added CatSeedLogin 2.0.0
 - [PLUGIN] Added ClearLag
-- [PLUGIN] Added CMILib
+- [PLUGIN] Added CMILib 1.5.9.9
 
 ## Pre-release v0.0.4 | 2026-08-01
-- [PLUGIN] Added RPGItems
+- [PLUGIN] Added RPGItems 3.27.0-68-core
 
 ## Pre-release v0.0.5 | 2026-08-01
 - [PLUGIN] Added SkinsRestorer
@@ -48,27 +48,30 @@
 - [FIX] Fixed UUID problems
 
 ## Pre-release v0.0.12 | 2026-08-03
-- [PLUGIN] Added Citizen2
+- [PLUGIN] Added Citizen 2.0.43
 
 ## Pre-release v0.0.13a | 2026-08-04
-- [PLUGIN] Removed FTPbow
+- [PLUGIN] Removed FTPbow 1.0
 
 ## Pre-release v0.0.13b | 2026-08-04
-- [PLUGIN] Removed Citizen2
+- [PLUGIN] Removed Citizen 2.0.43
 
 ## Pre-release v0.1.0 | 2026-08-04
 - [CORE] Changed to Paper server core
-- [PLUGIN] Re-configured Citizen2
+- [PLUGIN] Re-configured Citizen
 
 ## Pre-release v0.1.1 | 2026-08-04
-- [PLUGIN] Added TAB
+- [PLUGIN] Added TAB 6.1.0
 
 ## Pre-release v0.1.2 | 2026-08-04
-- [PLUGIN] Added QuickShop-Hikari
+- [PLUGIN] Added QuickShop-Hikari 6.2.0.0
 
 ## Pre-release v0.1.2npc | 2026-08-05
-- [PLUGIN] Added Sentinel
+- [PLUGIN] Added Sentinel *deleted*
 
 ## Pre-release v0.1.2f | 2026-08-05
 - [PLUGIN] Removed Sentinel
 - [FIX] Restored Vanilla redstone behavior
+
+## Pre-release v0.1.2f | 2026-08-06
+- [PLUGIN] Updated QuickShop-Hikari to 6.3.0.0-SNAPSHOT-12
