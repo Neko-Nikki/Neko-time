@@ -97,7 +97,7 @@ Whether you're collecting resources, opening a shop, or crafting legendary equip
 
 Current milestone:
 
-**Pre-release v0.1.0**
+**Pre-release v0.1.2f**
 
 See **CHANGELOG.md** for the complete development history.
 
