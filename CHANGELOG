@@ -99,8 +99,9 @@
   - Admin (神明)
 - [FUNCTION] Integrated LuckPerms prefixes with TAB
 - [FUNCTION] Added automatic title display to the TAB scoreboard
-- [FUNCTION] Added in-game currency display to the TAB scoreboard
-- [FUNCTION] Added 茂祢币 (PlayerPoints) display to the TAB scoreboard
-- [FIX] Replaced permission group names with formatted titles in the TAB scoreboard
-- [CONFIG] Updated TAB configuration for LuckPerms, EssentialsX Economy, and PlayerPoints integration
-- [PLUGIN] Added PlaceholderAPI LuckPerms expansion
+- [ECONOMY] Added in-game currency display to the TAB scoreboard
+- [ECONOMY] Added 茂祢币 (PlayerPoints) display to the TAB scoreboard
+- [ECONOMY] Added EssentialsX Economy balance display via Vault
+- [INTEGRATION] Improved PlaceholderAPI integration with LuckPerms, Vault, and PlayerPoints
+- [FIX] Replaced raw permission group names with formatted titles in the TAB scoreboard
+- [CONFIG] Updated TAB configuration for automatic title and economy display
