@@ -86,6 +86,10 @@
 ## Pre-release v0.2.2 | 2026-08-13
 - [PLUGIN] Added DeluxeTags-1.8.3
 
+## Pre-release v0.2.2u | 2026-08-13
+- [PLUGIN] Updated QuickShop-Hikari to 6.3.0.0
+
+
 ## Pre-release v0.2.3 | 2026-08-13
 - [PERMISSION] Added automatic group-based title system using LuckPerms
   - Default (毛玉)
@@ -100,6 +104,3 @@
 - [FIX] Replaced permission group names with formatted titles in the TAB scoreboard
 - [CONFIG] Updated TAB configuration for LuckPerms, EssentialsX Economy, and PlayerPoints integration
 - [PLUGIN] Added PlaceholderAPI LuckPerms expansion
-
-## Pre-release v0.2.2u | 2026-08-13
-- [PLUGIN] Updated QuickShop-Hikari to 6.3.0.0
