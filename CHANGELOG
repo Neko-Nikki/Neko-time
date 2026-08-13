@@ -86,5 +86,20 @@
 ## Pre-release v0.2.2 | 2026-08-13
 - [PLUGIN] Added DeluxeTags-1.8.3
 
+## Pre-release v0.2.3 | 2026-08-13
+- [PERMISSION] Added automatic group-based title system using LuckPerms
+  - Default (毛玉)
+  - VIP (妖精)
+  - SVIP (天狗)
+  - XVIP (贤者)
+  - Admin (神明)
+- [FUNCTION] Integrated LuckPerms prefixes with TAB
+- [FUNCTION] Added automatic title display to the TAB scoreboard
+- [FUNCTION] Added in-game currency display to the TAB scoreboard
+- [FUNCTION] Added 茂祢币 (PlayerPoints) display to the TAB scoreboard
+- [FIX] Replaced permission group names with formatted titles in the TAB scoreboard
+- [CONFIG] Updated TAB configuration for LuckPerms, EssentialsX Economy, and PlayerPoints integration
+- [PLUGIN] Added PlaceholderAPI LuckPerms expansion
+
 ## Pre-release v0.2.2u | 2026-08-13
 - [PLUGIN] Updated QuickShop-Hikari to 6.3.0.0
