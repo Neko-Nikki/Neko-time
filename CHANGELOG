@@ -105,3 +105,6 @@
 - [INTEGRATION] Improved PlaceholderAPI integration with LuckPerms, Vault, and PlayerPoints
 - [FIX] Replaced raw permission group names with formatted titles in the TAB scoreboard
 - [CONFIG] Updated TAB configuration for automatic title and economy display
+
+## Release v1.0.0 | 2026-08-21
+- [PLUGIN] Added Neko n' Yume-0.8.0 alpha
