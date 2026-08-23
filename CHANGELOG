@@ -108,3 +108,8 @@
 
 ## Release v1.0.0 | 2026-08-21
 - [PLUGIN] Added Neko n' Yume-0.8.0 alpha
+
+## Release v1.1.0 | 2026-08-23
+- [SAFE] Added GrimAC 2.3.74-9e26fd9
+- [PLUGIN] Added MobCash-1.0.0
+- [PLUGIN] Added VillagerTradeEdit-2.2.0
