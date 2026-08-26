@@ -124,6 +124,39 @@
 ## Release v1.2.0 | 2026-08-26
 - [PLUGIN] Added RPGDrop Release 1
 
+## Release v1.2.1 | 2026-08-26
+- [PERMISSION] Updated LuckPerms group system
+
+  * Default → 小猫
+  * Intermediate → 中猫
+  * High → 大猫
+  * VIP → 灵猫
+  * SVIP → 玄猫
+  * XVIP → 天猫
+  * Admin → 猫神
+- [PERMISSION] Separated permanent player ranks from temporary VIP memberships
+- [PERMISSION] Added temporary VIP / SVIP / XVIP membership system
+
+  * VIP: 30 days
+  * SVIP: 30 days
+  * XVIP: 30 days
+- [ECONOMY] Added tier-based Residence limits and discounts
+
+  * Default: 50×50, 100%
+  * Intermediate: 80×80, 95%
+  * High: 100×100, 90%
+  * VIP: 150×150, 80%
+  * SVIP: 300×300, 70%
+  * XVIP: 1000×1000, 50%
+- [PERMISSION] Added SVIP flight permission
+- [PERMISSION] Added XVIP flight and player teleport permission
+- [KIT] Added separate VIP / SVIP / XVIP daily kits
+- [ECONOMY] Added tier-based VIP membership purchases
+
+  * VIP: 200,000 dollars (游戏币) / 30 days
+  * SVIP: 380 points (茂祢币) / 30 days
+  * XVIP: 1,080 points (茂祢币) / 30 days
+
 ## Release v1.3.0 | 2026-08-27
 - [PLUGIN] Added XTP v1
 - [PLUGIN] Updated Neko n' Yume to 0.8.1 alpha
